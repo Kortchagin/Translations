@@ -1,2 +1,2 @@
 # Translations
-My translations
+My translations in collaboration with Gewissta
